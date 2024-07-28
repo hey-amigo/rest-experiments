@@ -1,0 +1,5 @@
+dependencies {
+    implementation 'org.apache.httpcomponents.core5:httpcore5-h2:' + apacheHttpcomponentsVersion
+    implementation 'org.springframework.boot:spring-boot-starter-webflux:' + webfluxVersion
+
+}
